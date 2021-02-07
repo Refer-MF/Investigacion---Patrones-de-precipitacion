@@ -1,6 +1,6 @@
 ## Investigacion---Patrones-de-precipitacion
 
-$\underline{\text{INFORMACION ACERCA DE LA INVESTIGACION}}\text{(07/02/2021)}$
+INFORMACION ACERCA DE LA INVESTIGACION (07/02/2021)
 
 Repositorio de investigacion personal sobre patrones de precipitacion.
 
