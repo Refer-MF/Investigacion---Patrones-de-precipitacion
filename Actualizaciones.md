@@ -2,8 +2,6 @@
 
 INFORMACION ACERCA DE LA INVESTIGACION - (07/02/2021)
 
-Repositorio de investigacion personal sobre patrones de precipitacion.
-
 En este repositorio se recopilaran los archivos sobre la investigacion personal acerca de posibles patrones de precipitacion existentes en el mundo.
 
 El patron hipotetizado (y el cual se estudiara), es el de un aparente pico de precipitacion local cada diez anos en datos meteorologicos recolectados
