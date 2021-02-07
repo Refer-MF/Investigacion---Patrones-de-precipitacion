@@ -1,6 +1,7 @@
 ## Investigacion---Patrones-de-precipitacion
 
-#INFORMACION ACERCA DE LA INVESTIGACION (07/02/2021)
+$\underline{\text{INFORMACION ACERCA DE LA INVESTIGACION}}\text{(07/02/2021)}$
+
 Repositorio de investigacion personal sobre patrones de precipitacion.
 
 En este repositorio se recopilaran los archivos sobre la investigacion personal acerca de posibles patrones de precipitacion existentes en el mundo.
