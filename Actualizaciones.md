@@ -1,4 +1,6 @@
-# Investigacion---Patrones-de-precipitacion
+## Investigacion---Patrones-de-precipitacion
+
+#INFORMACION ACERCA DE LA INVESTIGACION (07/02/2021)
 Repositorio de investigacion personal sobre patrones de precipitacion.
 
 En este repositorio se recopilaran los archivos sobre la investigacion personal acerca de posibles patrones de precipitacion existentes en el mundo.
@@ -15,3 +17,4 @@ Primero se planea estudiar el pais de Mexico en sus diferentes regiones, para en
 comenzaran a analizar regiones de diferentes partes del mundo, comenzando desde Mexico hacia afuera.
 
 La principal fuente de informacion meteorologica para el estudio de Mexico es CONAGUA.
+
